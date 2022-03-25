@@ -1,6 +1,6 @@
 # Mining controller
 
-Simple python bitcoin miner
+Simple python bitcoin miner with stratum2
 
 It supports the following scenarios:
 
