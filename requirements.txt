@@ -1,0 +1,13 @@
+numpy
+simpy
+matplotlib
+hashids
+event_bus
+colorama
+stringcase
+git+ssh://git@github.com/braiins/black.git@braiins-codestyle#egg=black
+noiseprotocol===0.3.1
+ed25519===1.5
+base58===2.1.1
+dissononce===0.34.3
+asyncio===3.4.3

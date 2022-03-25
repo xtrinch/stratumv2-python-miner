@@ -1,0 +1,15 @@
+.scons*
+*.bin
+*.asc
+*.out
+*.vcd
+.pio/*
+build/
+**/__pycache__/
+*.pyc
+test
+*.sim
+*.dot
+
+env/
+__pycache__/
