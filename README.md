@@ -8,7 +8,7 @@ It supports the following scenarios:
 Miner (V2) ----> pool (V2)
 ```
 
-It includes a simulation of a pool and an actual miner client. Ideally, you run them both, you can also run the miner against a real stratum server (you can find some @ slushpool) but you may get banned for not producing any valid shares after a while.
+It includes a simulation of a pool and an actual miner client. Ideally, you run them both, you can also run the miner against a real stratum2 server (you can find some @ slushpool) but you may get banned for not producing any valid shares after a while.
 
 # Running
 
