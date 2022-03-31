@@ -1,6 +1,6 @@
 # Mining controller
 
-Simple python bitcoin miner with stratum2. It sure isn't fast as it's written in python, but this is just a proof of concept for stratum2 mining as there's no other examples I could find on github.
+Simple python bitcoin miner with stratum2. It sure isn't fast as it's written in python, but this is just a proof of concept for stratum2 mining as there's no other pythonic examples I could find on github.
 
 It supports the following scenarios:
 
