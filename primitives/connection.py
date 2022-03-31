@@ -137,7 +137,7 @@ class Connection:
 
         ciphertext = await self.sock[0].read(8192)
         if len(ciphertext) == 0:
-            return
+            return []
 
         print(
             f"{Style.BRIGHT}{Fore.YELLOW}Rcv raw: {Style.NORMAL}%d bytes{Style.RESET_ALL}"
