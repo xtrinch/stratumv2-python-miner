@@ -5,7 +5,6 @@ hashids
 event_bus
 colorama
 stringcase
-git+https://git@github.com/braiins/black.git@braiins-codestyle#egg=black
 noiseprotocol===0.3.1
 ed25519===1.5
 base58===2.1.1
